@@ -266,7 +266,7 @@ spec:
                 access: public
             scalingConfig:
               - minSize: 1
-                maxSize: 100
+                maxSize: 10
                 desiredSize: 1
             instanceTypes:
               - t3.medium
